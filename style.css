@@ -6,12 +6,12 @@
     font-family: 'Poppins', sans-serif;
 }
 
-:root {
+root {
     --black: #333;
     --white: #fff;
 }
 
-.escuro {
+escuro {
     --black: #fff;
     --white: #333;
 }
