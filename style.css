@@ -26,7 +26,7 @@ header {
     z-index: 10000;
 }
 
-header .logo{
+header logo{
     position: relative;
     display: inline-flex;
     color: var(--black);
@@ -41,7 +41,7 @@ ladoDireito {
     display: flex;
 }
 
-.btns {
+btns {
     position: relative;
     width: 40px;
     height: 40px;
@@ -53,12 +53,12 @@ ladoDireito {
     margin-left: 10px;
 }
 
-.btns ion-icon {
+btns ion-icon {
     font-size: 1.5em;
     color: var(--black);
 }
 
-.btns.menuToggle ion-icon{
+btns.menuToggle ion-icon{
     font-size: 3em;
 }
 
