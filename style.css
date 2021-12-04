@@ -91,7 +91,7 @@ ladoDireito {
     object-fit: cover;
 }
 
-.mask{
+mask{
     position: absolute;
     top: 0;
     left: 0;
@@ -102,7 +102,7 @@ ladoDireito {
     mix-blend-mode:screen;
 }
 
-.escuro .mask{
+escuro mask{
     filter: invert(1);
     mix-blend-mode: multiply;
 }
